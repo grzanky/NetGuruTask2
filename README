@@ -1,0 +1,9 @@
+Before run test please set a proper path to chromedriver.exe file in src/main/java/utils/Constant.java file. 
+ChromeDriver might be download from;
+https://chromedriver.storage.googleapis.com/index.html?path=81.0.4044.69/
+OR
+https://chromedriver.chromium.org/
+
+
+For running tests right click on testng.xml file in main folder
+Select 'Run As' >> 'TestNG Suite'
