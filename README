@@ -5,5 +5,5 @@ OR
 https://chromedriver.chromium.org/
 
 
-For running tests right click on testng.xml file in main folder
+For running test suit right click on testng.xml file in main folder
 Select 'Run As' >> 'TestNG Suite'
